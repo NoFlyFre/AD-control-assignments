@@ -1,2 +1,9 @@
-Assignment1/PAAD_PlanningControl_Assignment1.pdf
-Assignment1/\'Risultati Attesi'\
+# Ignora la cartella Risultati Attesi
+Assignment 1/Risultati Attesi/
+
+# Ignora il PDF del professore
+Assignment 1/PAAD_PlanningControl_Assignment1.pdf
+
+# Ignora i file di cache di Python
+__pycache__/
+*.pyc
